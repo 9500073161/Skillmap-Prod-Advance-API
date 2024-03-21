@@ -16,7 +16,7 @@ func init() {
 }
 
 func main() {
-	fmt.Println("Skill Map-Prod-v1")
+	fmt.Println("Skill Map-Prod-v2")
 
 	router := gin.Default()
 
